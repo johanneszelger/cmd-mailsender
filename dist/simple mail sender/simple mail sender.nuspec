@@ -6,7 +6,7 @@
     <title>simple mail sender</title>
     <authors>Johannes Zelger</authors>
     <copyright>Finidy Solutions GmbH</copyright>
-    <projectUrl>Finidy Solutions GmbH</projectUrl>
+    <projectUrl>https://github.com/johanneszelger/cmd-mailsender</projectUrl>
     <tags>command-line mail-sender smtp</tags>
     <summary>Sends emails via SMTP</summary>
     <description>
